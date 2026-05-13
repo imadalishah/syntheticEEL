@@ -1,7 +1,7 @@
 // p5.js version, inspired by https://github.com/sofienkaabar/misc-files/blob/main/fireeel_animation.py
 // Save as sketch.js and run in the p5.js editor
 
-// Interactive Creature Generator
+// Interactive Control Panel
 // 30% LEFT CONTROL PANEL
 // 70% RIGHT ANIMATION
 
